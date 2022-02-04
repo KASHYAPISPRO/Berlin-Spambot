@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://te.legra.ph/file/84ba366dd4bd8fbd416de.jpg" alt="BERLIN SPAMBOT">
-</p>
 
 
 ## Mandotry Vars 
